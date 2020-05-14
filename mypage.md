@@ -1,7 +1,8 @@
-layout 	title 	subtitle
-page
-	
-About me
+---
+layout: page
+title: hullabaloo
+subtitle: Testing page!!
+---
 	
 Testing One
 
