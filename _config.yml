@@ -1,21 +1,21 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: "AUGURNAUTS"
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: "Byte off more than you can chew"
 
 # Your name to show in the footer
-author: Some Person
+author: "Shannon Li"
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Jekyll: "https://learn.lambda.com"
+    - Learn markdown: "https://lambdaschool.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "shannonli@augurnauts.com"
+  facebook: augurnaut
+  github: augurnauts
+  twitter: _augurnaut_
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
