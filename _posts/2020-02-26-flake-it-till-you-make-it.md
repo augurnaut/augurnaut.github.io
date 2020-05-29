@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: How SELFISH can you be: League of Legends Kills and Assists
+subtitle: How much does Kill stats cannabilize your shot at victory?
+cover-img: /assets/img/league of legends logo.jpeg
 tags: [books, test]
 ---
 
